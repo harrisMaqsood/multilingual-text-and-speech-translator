@@ -43,7 +43,3 @@ List of the technologies used in the project.
 
 ![home-page](./src/assets/)
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/harshalpardeshi/)
-- [Email](mailto:pardeshiharshal90@gmail.com)
